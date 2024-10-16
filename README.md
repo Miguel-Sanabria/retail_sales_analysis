@@ -4,7 +4,7 @@ Este proyecto analiza y predice las ventas de una tienda de retail utilizando t√
 
 ## Estructura del Proyecto
 
-- `data/`: https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/development/Datos_tienda.csv
+- `data/`: https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/development/Dataset/Datos_tienda.csv
 - `notebooks/`: https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/development/10-Predicci%C3%B3n%20Ventas%20Parte%201%20(Proyecto%20I%20-%20Core)
 - `src/`: Contiene el c√≥digo fuente del proyecto.
 - `README.md`: https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/development/README.md
