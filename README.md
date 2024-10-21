@@ -15,7 +15,7 @@ Este proyecto analiza y predice las ventas de una tienda de retail utilizando t�
 - [Proyecto I Parte IV](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/proyecto_retail/5_Predicci%C3%B3n_Ventas_Parte_4_(Proyecto_I_Core).ipynb)
 - [Proyecto I Parte V](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/proyecto_retail/13_Predicci%C3%B3n_Ventas_Parte_5_(Proyecto_I_Core).ipynb)
 - `presentation/`:
-[Presentación](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/proyecto_retail/14-Presentaci%C3%B3n%20de%20trabajo.pptx)
+- [Presentación](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/proyecto_retail/14-Presentaci%C3%B3n%20de%20trabajo.pptx)
 - `README.md`:
 - [Este archivo.](https://github.com/Miguel-Sanabria/retail_sales_analysis/edit/proyecto_retail/README.md)
 
