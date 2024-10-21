@@ -4,10 +4,10 @@ Este proyecto analiza y predice las ventas de una tienda de retail utilizando t�
 
 ## Estructura del Proyecto
 
-- `data/`: Contiene los archivos de datos.
-- `notebooks/`: Contiene los notebooks de Jupyter para el análisis.
+- `data/`: https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/development/Dataset/Datos_tienda.csv
+- `notebooks/`: https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/development/10_Predicci%C3%B3n_Ventas_Parte_1_(Proyecto_I_Core).ipynb
 - `src/`: Contiene el código fuente del proyecto.
-- `README.md`: Este archivo.
+- `README.md`: https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/development/README.md
 
 ## Instrucciones de Instalación
 
