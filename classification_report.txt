@@ -1,0 +1,36 @@
+Reporte de clasificación: Logistic Regression
+
+              precision    recall  f1-score   support
+
+        Bajo       0.86      0.87      0.86        95
+       Medio       0.83      0.83      0.83       116
+        Alto       0.93      0.91      0.92        89
+
+    accuracy                           0.87       300
+   macro avg       0.87      0.87      0.87       300
+weighted avg       0.87      0.87      0.87       300
+
+Reporte de clasificación: K-Nearest Neighbors
+
+              precision    recall  f1-score   support
+
+        Bajo       0.98      1.00      0.99        95
+       Medio       1.00      0.94      0.97       116
+        Alto       0.95      1.00      0.97        89
+
+    accuracy                           0.98       300
+   macro avg       0.98      0.98      0.98       300
+weighted avg       0.98      0.98      0.98       300
+
+
+Reporte de clasificación: Decision Tree
+
+              precision    recall  f1-score   support
+
+        Bajo       1.00      1.00      1.00        95
+       Medio       1.00      1.00      1.00       116
+        Alto       1.00      1.00      1.00        89
+
+    accuracy                           1.00       300
+   macro avg       1.00      1.00      1.00       300
+weighted avg       1.00      1.00      1.00       300
