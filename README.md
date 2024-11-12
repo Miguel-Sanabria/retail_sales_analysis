@@ -4,25 +4,22 @@ Este proyecto analiza y predice las ventas de una tienda de retail utilizando t�
 
 ## Estructura del Proyecto
 
-/Proyecto1
-|-- /data
-| |-- dataset.csv
-|-- /notebooks
-| |-- EDA.ipynb
-| |-- Preprocessing.ipynb
-| |-- Benchmarking.ipynb
-|-- /reports
-| |-- classification_report.txt
-| |-- confusion_matrix.png
-| |-- roc_curve.png
-|-- /presentation
-| |-- onepage_presentation.pptx
-|-- README.md
-
-- `data/`: Contiene los archivos de datos.
-- `notebooks/`: Contiene los notebooks de Jupyter para el análisis.
-- `src/`: Contiene el código fuente del proyecto.
-- `README.md`: Este archivo.
+## Proyecto1
+- `data/`:
+-- [dataset.csv](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/Parte_final/retail_sales_dataset.csv)
+  
+- `notebooks/`:
+-- [Proyecto_1_Parte_final.ipynb](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/Parte_final/Proyecto_1_Parte_final_(Core).ipynb)
+  
+- `reports/`:
+-- [classification_report.txt](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/Parte_final/classification_report.txt)
+-- [confusion_matrix.png](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/Parte_final/confusion_matrix.PNG)
+-- [roc_curve.png](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/Parte_final/roc_curve.png)
+  
+- `presentation/`:
+-- [onepage_presentation.pptx](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/Parte_final/onepage_presentation.pptx)
+  
+- README.md
 
 ## Instrucciones de Instalación
 
