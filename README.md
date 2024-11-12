@@ -4,21 +4,6 @@ Este proyecto analiza y predice las ventas de una tienda de retail utilizando t�
 
 ## Estructura del Proyecto
 
-/Proyecto1
-|-- /data
-| |-- dataset.csv
-|-- /notebooks
-| |-- EDA.ipynb
-| |-- Preprocessing.ipynb
-| |-- Benchmarking.ipynb
-|-- /reports
-| |-- classification_report.txt
-| |-- confusion_matrix.png
-| |-- roc_curve.png
-|-- /presentation
-| |-- onepage_presentation.pptx
-|-- README.md
-
 - `data/`: Contiene los archivos de datos.
 - `notebooks/`: Contiene los notebooks de Jupyter para el análisis.
 - `src/`: Contiene el código fuente del proyecto.
