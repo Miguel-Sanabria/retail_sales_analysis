@@ -13,7 +13,7 @@ Este proyecto analiza y predice las ventas de una tienda de retail utilizando t√
   
 - `reports/`:
   - [classification_report.txt](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/Parte_final/classification_report.txt)
--- [confusion_matrix.png](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/Parte_final/confusion_matrix.PNG)
+  - [confusion_matrix.png](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/Parte_final/confusion_matrix.PNG)
   - [roc_curve.png](https://github.com/Miguel-Sanabria/retail_sales_analysis/blob/Parte_final/roc_curve.png)
   
 - `presentation/`:
